@@ -365,7 +365,7 @@ export default {
             options: [
               {
                 label: "祖师爷A大标准版",
-                value: "https://raw.githubusercontent.com/jackieyiwu/Custom_OpenClash_Rules/refs/heads/main/cfg/Custom_Clash.ini"
+                value: "https://api.asailor.org/Custom_OpenClash_Rules/main/cfg/Custom_Clash.ini"
               },
               {
                 label: "自用单测自动精简版",
@@ -378,10 +378,6 @@ export default {
               {
                 label: "CM大神_Online_Full_CF 识别多地区、CloudFlareCDN 分组 Worker节点专用(与Github同步)",
                 value: "https://raw.githubusercontent.com/cmliu/ACL4SSR/main/Clash/config/ACL4SSR_Online_Full_CF.ini"
-              },
-              {
-                label: "群友JS转换版)",
-                value: "https://raw.githubusercontent.com/jackieyiwu/Custom_OpenClash_Rules/refs/heads/main/cfg/clash_verge_rev_script_test.ini"
               },
             ]
           },
